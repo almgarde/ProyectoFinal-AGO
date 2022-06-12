@@ -1,0 +1,8 @@
+--------------------------------------------------------
+-- Archivo creado  - sábado-junio-11-2022   
+--------------------------------------------------------
+REM INSERTING into PF_AGO.THESIS
+SET DEFINE OFF;
+Insert into PF_AGO.THESIS (ID_THESIS,DOCTOR_THESIS,TITLE_THESIS,COVER_PAGE_THESIS,DATE_DEFENSE_THESIS,DIRECTOR_THESIS,CODIRECTOR_THESIS,URL_THESIS,UPDATE_ADMIN,UPDATE_DATE,ACTIVE) values ('1','Beatriz Sarrión Aceytuno','Sistemas de almacenamiento termoquímico para energía solar concentrada','1tesis1.PNG',to_date('09/11/18','DD/MM/RR'),'Luis Allan Pérez Maqueda','José Manuel Valverde Millán','https://idus.us.es/handle/11441/80339','Admin',to_date('10/06/22','DD/MM/RR'),'1');
+Insert into PF_AGO.THESIS (ID_THESIS,DOCTOR_THESIS,TITLE_THESIS,COVER_PAGE_THESIS,DATE_DEFENSE_THESIS,DIRECTOR_THESIS,CODIRECTOR_THESIS,URL_THESIS,UPDATE_ADMIN,UPDATE_DATE,ACTIVE) values ('2','Eva Gil González','Mecanosíntesis y caracterización de materiales multiferroicos nanoestructurados','2tesis2.png',to_date('06/10/17','DD/MM/RR'),'Luis A. Pérez Maqueda ','Antonio Perejón Pazo','https://idus.us.es/handle/11441/76488','Admin',to_date('10/06/22','DD/MM/RR'),'1');
+Insert into PF_AGO.THESIS (ID_THESIS,DOCTOR_THESIS,TITLE_THESIS,COVER_PAGE_THESIS,DATE_DEFENSE_THESIS,DIRECTOR_THESIS,CODIRECTOR_THESIS,URL_THESIS,UPDATE_ADMIN,UPDATE_DATE,ACTIVE) values ('3','Jaime Caballero Hernández','Control of Microstructure in Porous Silicon Coatings with Closed Porosity for Functional Applications','3tesis3.png',to_date('20/04/16','DD/MM/RR'),'Asunción Fernández Camacho','Vanda Cristina Fortio Godinho','https://idus.us.es/handle/11441/41292','Admin',to_date('11/06/22','DD/MM/RR'),'1');
